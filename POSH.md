@@ -20,3 +20,20 @@ Sexual harassment also includes the conduct of co-workers who engage in verbal o
 * physical confinement against one’s will and intruding one’s privacy.
 * Report sexual harassment to the Human Resource department or respective committee.
 * Be professional always.
+
+## What is the PoSH Act, 2013?
+* The POSH Act is a legislation enacted by the Government of India in 2013 to address the issue of sexual harassment faced by women in the workplace.
+* The Act aims to create a safe and conducive work environment for women and provide protection against sexual harassment.
+* The guidelines formed the basis for the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+  
+_The SC also drew its strength from several provisions of the Constitution including Article 15 (against discrimination on grounds only of religion, race, caste, sex, and place of birth), also drawing from relevant International Conventions and norms such as the General Recommendations of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW), which India ratified in 1993._
+**Key Provisions:-**
+* Prevention and Prohibition: The Act places a legal obligation on employers to prevent and prohibit sexual harassment in the workplace.
+* Internal Complaints Committee (ICC): Employers are required to constitute an ICC at each workplace with 10 or more employees to receive and address complaints of sexual harassment.
+* The Complaints Committees have the powers of civil courts for gathering evidence.
+* Duties of Employers: Employers must undertake awareness programs, provide a safe working environment, and display information about the POSH Act at the workplace.
+* Complaint Mechanism: The Act lays down a procedure for filing complaints, conducting inquiries, and providing a fair opportunity to the parties involved.
+  
+**Penalties:-**
+  * Non-compliance with the Act's provisions can result in penalties,
+  * including fines and cancellation of business licenses.
