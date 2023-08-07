@@ -14,7 +14,7 @@ Working with the team lead and stakeholders  helps me to establish clear goals f
 **Evaluate Caching Strategies:**
 Research and analyze different caching approaches that could suit our project's needs. Common caching strategies include:
 
-1. ***In-Memory Caching:** Storing frequently accessed data in memory using tools like Redis or Memcached.
+1. **In-Memory Caching:** Storing frequently accessed data in memory using tools like Redis or Memcached.
 2. **Content Delivery Networks (CDNs):** Offloading static assets to CDN servers for faster delivery to users.
 3. **Database Query Caching:** Caching the results of database queries to avoid redundant processing.
 4. **Full-Page Caching:** Storing entire HTML pages to serve to users without regenerating the content each time.
